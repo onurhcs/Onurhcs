@@ -29,7 +29,7 @@
 ---
 
 ### 3. **Portföy Projesi**
-- **Canlı Proje**: [https://haciosmanoglu.com.tr/](https://haciosmanoglu.com.tr/)
+- **Canlı Proje**: [https://hacıosmanoglu.com.tr/](https://hacıosmanoglu.com.tr/)
 - **Açıklama**: Kendi profesyonel yeteneklerinizi sergilediğiniz bir portföy sitesi.
 - **Özellikler**:
   - Admin Panel: Yalnızca yetkili kullanıcıların erişebildiği panel.
